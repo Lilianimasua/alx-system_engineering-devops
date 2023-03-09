@@ -1,2 +1,4 @@
 0 then press tab key SCHOOL School data
-!:mime school.mgc 
+!:mime school.mgc
+exit vi
+file -c -m school.mgc 

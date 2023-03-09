@@ -1,2 +1,2 @@
-'script that prints the absolute path name of the current working directory'
-'task 0, where am i ?'
+the absolute path name of the current working directory
+task 0, where am i ?
